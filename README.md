@@ -40,10 +40,6 @@ Want to create a birthday page for someone else?
 - Replace `Imgur.jpg` with your own image
 - Customize the message and colors as you like!
 
-## 📸 Preview
 
-![Screenshot](screenshot.jpg) <!-- Replace or remove if you don’t have a screenshot -->
-
----
 
 Happy coding and happy birthday to Nad! 🥳🎈
